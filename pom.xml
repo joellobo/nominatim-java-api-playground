@@ -13,4 +13,12 @@
         <maven.compiler.target>18</maven.compiler.target>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>me.atlis</groupId>
+            <artifactId>nominatim-api</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+    </dependencies>
+
 </project>
